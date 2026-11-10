@@ -5,7 +5,7 @@ Things I've built:
 Hotel Booking engine (PHP/MySQL) - auth, booking flow, admin panel
 Elevator System Simulator (C++/Qt) - GUI, scenario testing, safety features
 EEG neurofeedback device UI (C++/Qt, team project)
-Twitch redesign (Figma) + usability study with 2 participants
+Twitch redesign (Figma) + usability study with 6 participants
 
 Now: learning React/TypeScript, rebuilding the hotel booking flow as a front-end portfolio piece. 
 
