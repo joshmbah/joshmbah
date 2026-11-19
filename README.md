@@ -1,12 +1,17 @@
 ### Hi, I'm Joshua.
-Junior software developer in Ottawa, Canada. Recent university grad, working across the stack - PHP, MySQL, C++, Qt, Java, JavaScript. 
 
-Things I've built: 
-Hotel Booking engine (PHP/MySQL) - auth, booking flow, admin panel
-Elevator System Simulator (C++/Qt) - GUI, scenario testing, safety features
-EEG neurofeedback device UI (C++/Qt, team project)
-Twitch redesign (Figma) + usability study with 6 participants
+Junior software developer in Ottawa, Canada. Recent grad. I build for the web, mostly front end: React, TypeScript, JavaScript, plus C++ and Qt from my degree.
 
-Now: learning React/TypeScript, rebuilding the hotel booking flow as a front-end portfolio piece. 
+Things I've built:
 
-My rule: If it's pinned here, I built it and I can explain it in an interview. No tutorial clone, nothing I can't walk through.
+Hotel Booking Simulator (React and TypeScript): search, rooms, booking and confirmation for five fictional Ottawa hotels, with a car rental add on. Live demo: https://hotel-booking-simulator.vercel.app
+
+Elevator System Simulator (C++/Qt): GUI simulator for 3 elevators over 7 floors. I led the scenario testing, including the safety features.
+
+EEG neurofeedback device UI (C++/Qt, team project): I built the normal treatment flow and the storage and reading of treatment metadata using text files.
+
+Twitch redesign (Figma), informed by a usability study with 6 participants.
+
+Next up: deploying the hotel app on AWS with Docker.
+
+My rule: If it's pinned here, I built it and I can explain it in an interview. No tutorial clones, nothing I can't walk through.
