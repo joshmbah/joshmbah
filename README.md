@@ -1,6 +1,6 @@
 ### Hi, I'm Joshua.
 
-Junior software developer in Ottawa, Canada. Recent grad. I build for the web, mostly front end: React, TypeScript, JavaScript, plus C++ and Qt from my degree.
+Software developer in Ottawa, Canada. Recent grad. I build for the web, mostly front end: React, TypeScript, JavaScript, plus C++ and Qt from my degree.
 
 Things I've built:
 
