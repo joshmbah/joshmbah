@@ -4,7 +4,7 @@ Software developer in Ottawa, Canada. Recent grad. I build for the web, mostly f
 
 Things I've built:
 
-Hotel Booking Simulator (React and TypeScript): search, rooms, booking and confirmation for five fictional Ottawa hotels, with a car rental add on. Live demo: https://hotel-booking-simulator.vercel.app
+Hotel Booking Simulator (React and TypeScript): search, rooms, booking and confirmation for five fictional Ottawa hotels, with a car rental add on. Live demo: https://hotel-booking-simulator.vercel.app. It also runs on AWS, packaged with Docker and deployed to ECS Fargate through GitHub Actions: http://3.133.86.95
 
 Elevator System Simulator (C++/Qt): GUI simulator for 3 elevators over 7 floors. I led the scenario testing, including the safety features.
 
@@ -12,6 +12,6 @@ EEG neurofeedback device UI (C++/Qt, team project): I built the normal treatment
 
 Twitch redesign (Figma), informed by a usability study with 6 participants.
 
-Next up: deploying the hotel app on AWS with Docker.
+Next up: HTTPS and a domain for the AWS deployment.
 
 My rule: If it's pinned here, I built it and I can explain it in an interview. No tutorial clones, nothing I can't walk through.
